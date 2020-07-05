@@ -23,4 +23,8 @@ export class ProductService {
      <Product[]>response.json());
     };
 
+    navToProduct(){
+      
+    }
+
 }
